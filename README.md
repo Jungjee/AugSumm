@@ -32,3 +32,36 @@ Generated summaries used in our experiments are located as below.
 
 All training has been done using ESPnet-SUMM.
 Please refer to ESPnet and ESPnet-SUMM.
+
+### References
+
+- AugSumm
+
+```
+@inproceedings{jung2024augsumm,
+  title={Clotho: An audio captioning dataset},
+  author={Jung, Jee-weon and Sharma, Roshan and Chen, William and Raj, Bhiksha and Watanabe, Shinji},
+  booktitle={Proc. IEEE ICASSP},
+  year={2024},
+}
+```
+
+- ESPnet
+```
+@inproceedings{watanabe2018espnet,
+  title={ESPnet: End-to-End Speech Processing Toolkit},
+  author={Watanabe, Shinji and Hori, Takaaki and Karita, Shigeki and Hayashi, Tomoki and Nishitoba, Jiro and Unno, Yuya and Enrique Yalta Soplin, Nelson and Heymann, Jahn and Wiesner, Matthew and Chen, Nanxin and others},
+  booktitle={Proc. Interspeech},
+  year={2018}
+}
+```
+
+- ESPnet-SUMM
+```
+@inproceedings{sharma2023espnetsumm,
+  title={ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems},
+  author={Sharma, Roshan and Chen, William and Kano, Takatomo and Sharma, Ruchira and Ogawa, Atsunori and Delcroix, Marc and Watanabe, Shinji and Singh, Rita and Raj, Bhiksha Raj},
+  booktitle={Proc. IEEE ASRU},
+  year={2013}
+}
+```
